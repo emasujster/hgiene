@@ -3,7 +3,7 @@
 
 Final project for the Building AI course
 
-## Sumary
+## Summary
 
 Maintaining mental and physical health through proactive behaviour and treatment. This includes talks with doctors and specialists, creating a community, as well as practising healthy habits and rituals. Individuals should realise their abilities, weaknesses and strengths, to cope normal with stresses of life, to work productively, as well as make contributions to their community.
 
