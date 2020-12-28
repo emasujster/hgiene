@@ -42,6 +42,6 @@ One day it could be possible that users could communicate with their doctors ove
 
 ## Acknowledgments
 
-+ [The Fabolous App] (*https://www.thefabulous.co/*)
++ [The Fabulous App] (*https://www.thefabulous.co/*)
 + [Flo Health App] (*https://flo.health/*)
 + [Insight Timer App] (*https://insighttimer.com/*)
