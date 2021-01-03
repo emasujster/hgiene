@@ -5,8 +5,8 @@ Final project for the Building AI course
 
 ## Summary
 
-Improving mental/physical health with proactive behaviour/treatment.
-Talks with specialists, creating a community and practising healthy habits.
+Improving mental/physical health with proactive treatment.
+Talks with specialists, creating a community, practising healthy habits.
 Users acknowledge their abilities, weaknesses, strengths to: cope with stress; be productive; contribute to the community.
 
 
